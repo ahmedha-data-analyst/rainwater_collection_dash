@@ -779,8 +779,7 @@ the runoff coefficient (0-1) accounts for what the roof loses.
   thing whichever baseline you pick.
 
 The default container (40 ft, metal roof) and building (500 m², concrete roof)
-reproduce the source analysis, a starting point you can change freely. This is
-a first version; a predictive model can be layered on later.
+reproduce the source analysis, a starting point you can change freely.
             """
         )
 
