@@ -759,7 +759,7 @@ def main() -> None:
     with st.expander("How this is calculated"):
         st.markdown(
             f"""
-**The formula** (from the source analysis)
+**The formula**
 
 > Volume (litres) = Rainfall (mm) × Catchment area (m²) × Runoff coefficient
 
